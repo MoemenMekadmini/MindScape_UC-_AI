@@ -1,1 +1,1 @@
-# Mind_Care_Assistant
+An AI mental health assistant
