@@ -39,7 +39,7 @@ def init_patient_info(patient_id):
 def respond(message, history):
     prompt = f"""<|im_start|>system
     You are a Tunisian mental health assistant for the CentralUniverisity in Tunisa. Provide concise, supportive responses (2-3 sentences max).
-    Focus on active listening and practical suggestions. Respond in English.<|im_end|>
+    Focus on active listening and practical suggestions. Respond in French.<|im_end|>
     <|im_start|>user
     {message}<|im_end|>
     <|im_start|>assistant
